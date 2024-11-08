@@ -1,27 +1,17 @@
-#include <iostream>
-#include <algorithm>
-#include <vector>
-#define vi vector<int>
-#define vll vector<long long>
-#define ll long long
-#define GET(a) for(auto &it:a) cin >> it
-#define en "\n"
-#define IGNORE cin.ignore()
-using namespace std;
-void solve(ll n) {
-    ll S = n*(n+1) / 2;
-    IGNORE;
-    vll arr(n - 1);
-    GET(arr);
-    ll sum = 0;
-    for(ll i : arr) sum += i;
-    cout << S - sum << en;
-}
-
-int main() {
-    ll n;
-    cin >> n;
-    solve(n);
-    return 0;
-}
-
+You are given all numbers between 1,2,...,n except one. Your task is to find the missing number.<br>
+Input<br>
+The first input line contains an integer n.<br>
+The second line contains n-1 numbers. Each number is distinct and between 1 and n (inclusive).
+<br>Output:<br>
+Print the missing number.<br><br>
+Constraints
+<br>
+2 <= n <= 2 * 10^5
+<br><br><br>
+Example:<br><br>
+Input:<br>
+5<br>
+2 3 1 5
+<br><br>
+Output:<br>
+4
