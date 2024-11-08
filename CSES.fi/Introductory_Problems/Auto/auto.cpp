@@ -1,1 +1,7 @@
-I2luY2x1ZGUgPGlvc3RyZWFtPgp1c2luZyBuYW1lc3BhY2Ugc3RkOwoKaW50IG1haW4oKSB7CiAgICBjb3V0IDw8ICJUaGlzIGlzIHRoZSBhdXRvLmNwcCBmaWxlIGNyZWF0ZWQgYnkgYSBib3QhIiA8PCBlbmRsOwogICAgcmV0dXJuIDA7Cn0K
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "This is the auto.cpp file created by a bot!" << endl;
+    return 0;
+}
