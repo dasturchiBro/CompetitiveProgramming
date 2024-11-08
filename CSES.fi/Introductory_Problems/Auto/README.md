@@ -1,1 +1,3 @@
-IyBBdXRvIEZvbGRlcgoKVGhpcyBmb2xkZXIgY29udGFpbnMgZmlsZXMgY3JlYXRlZCBhdXRvbWF0aWNhbGx5IGJ5IGEgYm90Lg==
+# Auto Folder
+
+This folder contains files created automatically by a bot.
