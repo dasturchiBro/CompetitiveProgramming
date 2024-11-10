@@ -20,3 +20,4 @@ Output:<br>
 </h5>
 <br><br><br><br><br><br>
 <img alt="icon" src="https://github.com/user-attachments/assets/b613c6f7-eb86-4565-a693-d2d314dca869" width=50 height=50/>
+https://cses.fi/problemset/task/1068
