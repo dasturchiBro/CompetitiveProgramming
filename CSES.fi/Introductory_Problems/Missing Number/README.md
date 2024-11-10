@@ -16,3 +16,4 @@ Input:<br>
 Output:<br>
 4
 </h6>
+<br><br><br><a href="https://cses.fi/problemset/task/1083">Missing Number on CSES.fi</a>
