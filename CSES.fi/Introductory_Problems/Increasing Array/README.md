@@ -3,10 +3,10 @@ You are given an array of n integers. You want to modify the array so that it is
 <br>On each move, you may increase the value of any element by one. What is the minimum number of moves required?
 
 <br><br><br>
-Input<br
+Input<br>
 
 The first input line contains an integer n: the size of the array.
-Then, the second line contains n integers x_1,x_2,\ldots,x_n: the contents of the array.
+Then, the second line contains n integers x<sub>1<sub>,x<sub>2<sub>, .... ,x<sub>n<sub>: the contents of the array.
  <br><br><br>
 Output <br>
 
