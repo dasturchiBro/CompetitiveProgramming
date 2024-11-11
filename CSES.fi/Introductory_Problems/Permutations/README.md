@@ -20,7 +20,7 @@ Constraints
 
 Example<br><br>
 Input:<br>
-5<br
+5<br>
 <br><br>
 Output: <br>
 4 2 5 3 1
